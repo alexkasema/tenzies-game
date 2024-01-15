@@ -19,7 +19,11 @@ export default function App(){
         return newDice
     }
 
-    const diceElements = dice.map(die => <Die value={die.value} />)
+    const diceElements = dice.map(die => {
+        return (
+            <Die value={die.value} isHeld={die.isHeld} />
+        )
+    })
 
     function rollDice(){
         setDice(allNewDice)
