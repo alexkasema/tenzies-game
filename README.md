@@ -20,8 +20,8 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-![App Image](/app_images/tenzies1.png)
+![App Image](./src/images/tenzies1.png)
 
-![App Image](/app_images/tenzies2.png)
+![App Image](./src/images/tenzies2.png)
 
-![App Image](/app_images/tenzies3.png)
+![App Image](./src/images/tenzies3.png)
